@@ -1,0 +1,8 @@
+{
+  "name": "Bengapadavu Ward 17 Hub",
+  "description": "Premium citizen portal for Ward 17, Enmakaje Grama Panchayath.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
